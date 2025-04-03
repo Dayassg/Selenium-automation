@@ -10,6 +10,7 @@ def setup_teardown(func):
 @setup_teardown
 def betw():
     print("hello world")
+    print("hello boss")
 
 
 betw()
